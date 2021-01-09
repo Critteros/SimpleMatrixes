@@ -3,5 +3,5 @@
 void printTest()
 {
 	using namespace std;
-	cout << "Test asasas" << endl;
+	cout << "Test asasa" << endl;
 }
